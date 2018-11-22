@@ -1,0 +1,5 @@
+{
+  "favicon.png": "favicon.png",
+  "main.js": "main.js",
+  "vendors.js": "vendors.chunk.js"
+}

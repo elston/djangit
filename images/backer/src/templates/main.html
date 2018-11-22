@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% load bundle_url_for %}
+
+{% block body %}
+<div id="root"></div>
+{% endblock %}
+
+
+{% block js %}
+<script src="{% bundle_url_for 'vendors.js' %}"></script>
+<script src="{% bundle_url_for 'main.js' %}"></script>
+{% endblock %}
