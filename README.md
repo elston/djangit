@@ -52,6 +52,8 @@ Frontend features
     - extracting styles to a separate file for separate loading
 * React 16
 * Flow - static type checker for javascript [link](https://flow.org/)
+![flow in work](https://github.com/elston/djangit/blob/master/screenshots/flow.png  "flow in work")
+
 * Style from bootstrap, font-awesome on scss 
 
 
